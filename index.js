@@ -12,7 +12,6 @@ var Check = _interopRequire(require("./check"));
 
 var X = _interopRequire(require("./x"));
 
-var PureRenderMixin = _interopRequire(require("react-addons-pure-render-mixin"));
 
 module.exports = React.createClass({
 
